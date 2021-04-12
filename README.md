@@ -1,3 +1,9 @@
+# WARNING
+
+## this site is a mirror of https://michaelion.net/icsMerge/
+
+and will be closed if the bug is fixed in the origin site
+
 # icsMerge
 
 A small tool to combine iCalendar (.ics) files into one.
